@@ -57,6 +57,14 @@
 </a>
 </p>
 <p>
+<a href="https://www.kaggle.com/competitions/kaggriculture">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-kaggriculture-dark.svg" />
+  <img width="100%" alt="Kaggriculture · Kaggle x Google: Bronze Medal '26. A rule-based Python agent for a two-player farming simulation, modelling market prices and demand to decide what to sell and when to hold." src="./assets/project-kaggriculture-light.svg" />
+</picture>
+</a>
+</p>
+<p>
 <a href="https://github.com/JonathanZheng">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/project-ripple-dark.svg" />
