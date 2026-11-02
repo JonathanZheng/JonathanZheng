@@ -113,11 +113,6 @@
 ### `~ $ ./gh-stats --user JonathanZheng`
 
 <p>
-  <img width="49%" align="top" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JonathanZheng&show_icons=true&hide_border=true&line_height=24&card_width=467&bg_color=161B22&title_color=5EEAD4&icon_color=5EEAD4&text_color=C9D1D9&ring_color=5EEAD4&border_radius=12" />
-  <img width="49%" align="top" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanZheng&layout=compact&langs_count=8&card_width=467&hide_border=true&bg_color=161B22&title_color=5EEAD4&text_color=C9D1D9&border_radius=12" />
-</p>
-
-<p>
   <img width="100%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=JonathanZheng&card_width=880&card_height=195&hide_border=true&border_radius=12&background=161B22&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D" />
 </p>
 
