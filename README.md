@@ -65,6 +65,14 @@
 </a>
 </p>
 <p>
+<a href="https://big2-app.vercel.app/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-big2-dark.svg" />
+  <img width="100%" alt="Big 2 AI: XERJ Corpus Hub pick. A Big 2 bot trained with JAX, deployed as a web app that runs in the browser; Open-source contributions to XERJ Corpus Hub." src="./assets/project-big2-light.svg" />
+</picture>
+</a>
+</p>
+<p>
 <a href="https://github.com/JonathanZheng">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/project-ripple-dark.svg" />
